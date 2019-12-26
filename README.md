@@ -1,4 +1,6 @@
-# Welcome to Jimmy's Custom Template!
+# Welcome to Jimmy's Custom Template, Bushido Lite!
+
+> This is the Bushido package without the redux setup.
 
 Just like regular create-react-app but so much more. This template includes:
 
