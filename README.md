@@ -2,6 +2,26 @@
 
 > This is the Bushido package without the redux setup.
 
+## How To Install
+
+### yarn
+
+`yarn create react-app <app-name> --template bushido-lite`
+
+### npm
+
+`npm init react-app <app-name> --template bushido-lite`
+
+### npx
+
+`npx create-react-app <app-name> --template bushido-lite`
+
+### global
+
+> If create-react-app is installed globally on your computer you can use this command:
+
+`create-react -app <app-name> --template bushido-lite`
+
 Just like regular create-react-app but so much more. This template includes:
 
 - bushido-strap

@@ -1,6 +1,6 @@
 {
   "name": "cra-template-bushido-lite",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "The bushido template without redux and axios",
   "main": "template.json",
   "scripts": {
