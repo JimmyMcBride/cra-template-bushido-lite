@@ -7,7 +7,9 @@ export default function Dashboard() {
     <Wrapper>
       <Card shade>
         <h1>Hello, world!</h1>
-        <Button onClick={() => alert("Thanks for clicking me!")}>Click me!!!S</Button>
+        <Button onClick={() => alert('Thanks for clicking me!')}>
+          Click me!!!
+        </Button>
       </Card>
     </Wrapper>
   );
