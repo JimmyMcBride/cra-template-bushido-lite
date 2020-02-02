@@ -7,7 +7,7 @@ import { Route } from 'react-router-dom';
 import { AppWrapper } from 'bushido-strap';
 
 // Importing all routes
-import Dashboard from './components/Dashboard';
+import Dashboard from './views/Dashboard';
 
 // Using Web Font Loader for google fonts
 import WebFont from 'webfontloader';
